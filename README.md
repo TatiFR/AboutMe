@@ -7,7 +7,9 @@ Hello there! I'm Tatiana, a future software developer with a love for building w
 ## Skills and Expertise
 
 - Python
-- JavaScript
+- SQL
+- C#
+- HTML
 - CSS
 
 
